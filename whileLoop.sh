@@ -16,6 +16,9 @@ while [ $count -lt 10 ] ; do
 done
 
 
+# -------------------------------------------------------------
+
+        #   BREAK STATEMENT
 
 
 ## Second while statement
@@ -33,6 +36,8 @@ while [ $var -lt 27 ] ; do
         #printing values as per the condition check
         ((output=var/5))
         echo "output value as per if conditon: $output"
+        break
+   
     fi 
         echo $var
            
