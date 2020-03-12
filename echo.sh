@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# IN THIS ONE WE WILL WORK WITH ECHO AND COMMENT
 
 # Echo is used to print whatever you have typed here
     # It will automatically let you with new line
@@ -20,6 +21,10 @@ echo "Second line"
 echo "\nSpecial character"
 
 echo -e "\n special character series"
+
+
+# Like below one we will do multi line comment
+: 'Multi-line comment'
 
 
 # To run it in the termial type
