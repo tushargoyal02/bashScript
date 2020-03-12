@@ -9,3 +9,5 @@ args=$#
 
 echo "Arguments value are like:"
 echo $var $var2
+
+
