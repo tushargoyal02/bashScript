@@ -24,4 +24,9 @@ else
 
 fi
 
-
+#--------------------
+if [ $var -le 0 ];
+then
+    break
+else
+    echo "not of correct work make sure whrn u see"
